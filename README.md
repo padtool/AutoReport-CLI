@@ -26,7 +26,7 @@ Stop wrestling with complex Python libraries (`pdfplumber`, `PyPDF2`), broken Re
 
 This is commercial, proprietary software. The compiled, zero-dependency binaries for Windows and Linux are available for immediate download:
 
-📥 **[Get AutoReport CLI - Windows Edition](https://payhip.com/b/n1LrH)** 📥 **[Get AutoReport CLI - Linux Edition](URL_ZA_GUMROAD_ILI_PAYHIP_LINUX_VERZIJU)** *(Commercial License & Resell Rights Included - integrate the engine into your own SaaS or client pipelines without restrictions).*
+📥 **[Get AutoReport CLI - Windows Edition](https://payhip.com/b/n1LrH)** 📥 **[Get AutoReport CLI - Linux Edition](https://toolpad.gumroad.com/l/vpahtz)**
 
 ## 💻 Quick Start Example
 
