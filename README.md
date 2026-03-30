@@ -22,6 +22,7 @@ The AutoReport ecosystem consists of two specialized, commercial-grade tools tai
 ### 🪟 [AutoReport Max Pro (Windows 10/11)](https://toolpad.gumroad.com/l/yvsonr)
 **Enterprise Document Pipeline (Multi-threaded GUI)**
 
+<img width="1758" height="895" alt="image" src="https://github.com/user-attachments/assets/e07f816b-615a-49eb-b221-4d1ed4130803" />
 Tired of manually copying data from invoices, contracts, and archives? AutoReport Max Pro is an industry-standard Windows application designed to instantly extract key data into structured spreadsheets or mass-convert entire batches into clean PDFs.
 
 * **Dual Operation Modes:** Extract specific data (Emails, Totals, Custom IDs) to Excel/CSV/JSON, or convert DOCX/TXT files to unified PDFs.
@@ -36,6 +37,7 @@ Tired of manually copying data from invoices, contracts, and archives? AutoRepor
 ### 🐧 [AutoReport PDF Engine (Linux)](https://toolpad.gumroad.com/l/vpahtz)
 **The Ultimate Backend PDF Generator (x86_64 CLI)**
 
+<img width="1897" height="917" alt="image" src="https://github.com/user-attachments/assets/2492d871-d2df-478b-a80f-286e9ab9d8dd" />
 The ultimate zero-maintenance PDF generator for backend developers. Converts JSON data into beautiful, print-ready PDFs in seconds using standard HTML/Jinja2 templates.
 
 * **Universal Linux Binary:** Compiled with GLIBC 2.27/2.31 backward compatibility to run flawlessly on almost all modern distributions (Ubuntu, Debian, Kali, Arch) without dependency hell.
